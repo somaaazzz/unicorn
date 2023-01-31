@@ -9,9 +9,24 @@ const HomeContent = () => {
       top="30vh"
       right="10vw"
     >
-      <Text color="white" fontSize="100px" fontWeight="800" mb="30px" ml="20px">Care & Love?</Text>
-      <Button bg="#FF79B9" borderRadius="15px" pr="60px" pl="60px" pt="15px" pb="15px">
-        <Text fontSize="16px" font-weight="600" textAlign="center" color="white">
+      <Text color="white" fontSize="100px" fontWeight="800" mb="30px" ml="20px">
+        Care & Love?
+      </Text>
+      <Button
+        bg="#FF79B9"
+        borderRadius="15px"
+        pr="60px"
+        pl="60px"
+        pt="15px"
+        pb="15px"
+        _hover={{ backgroundColor: "#FF99D0" }}
+      >
+        <Text
+          fontSize="16px"
+          font-weight="600"
+          textAlign="center"
+          color="white"
+        >
           Adopt
         </Text>
       </Button>

@@ -42,6 +42,7 @@ const FollowUs = () => {
           pt="15px"
           pb="15px"
           onClick={incrementLike}
+          _hover={{ backgroundColor: "#FF99D0" }}
         >
           <Text
             fontSize="20px"
