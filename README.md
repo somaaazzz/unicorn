@@ -1,1 +1,1 @@
-This is an assignment for wbd
+This is the mock up project at wbd
